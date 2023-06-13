@@ -1,0 +1,58 @@
+export const news = [
+  {
+    id: 1,
+    image: "/assets/news6.png",
+    title: "News Title Lorem Ipsum Dolor Sit Amet",
+    date: "1 Hour Ago",
+    country: "CNN Indonesia",
+  },
+  {
+    id: 2,
+    image: "/assets/news2.png",
+    title: "News Title Lorem Ipsum Dolor Sit Amet",
+    date: "1 Hour Ago",
+    country: "CNN Indonesia",
+  },
+  {
+    id: 3,
+    image: "/assets/news3.png",
+    title: "News Title Lorem Ipsum Dolor Sit Amet",
+    date: "1 Hour Ago",
+    country: "CNN Indonesia",
+  },
+  {
+    id: 4,
+    image: "/assets/news4.png",
+    title: "News Title Lorem Ipsum Dolor Sit Amet",
+    date: "1 Hour Ago",
+    country: "CNN Indonesia",
+  },
+  {
+    id: 5,
+    image: "/assets/news5.png",
+    title: "News Title Lorem Ipsum Dolor Sit Amet",
+    date: "1 Hour Ago",
+    country: "CNN Indonesia",
+  },
+  {
+    id: 6,
+    image: "/assets/news1.png",
+    title: "News Title Lorem Ipsum Dolor Sit Amet",
+    date: "1 Hour Ago",
+    country: "CNN Indonesia",
+  },
+  {
+    id: 7,
+    image: "/assets/news7.png",
+    title: "News Title Lorem Ipsum Dolor Sit Amet",
+    date: "1 Hour Ago",
+    country: "CNN Indonesia",
+  },
+  {
+    id: 8,
+    image: "/assets/news8.png",
+    title: "News Title Lorem Ipsum Dolor Sit Amet",
+    date: "1 Hour Ago",
+    country: "CNN Indonesia",
+  },
+];
